@@ -35,24 +35,6 @@ If you use this library in your research, please cite:
   pages={0},
   doi={https://doi.org/...}
 }
-
-@article{GarridoJurado2014,
-  title={Automatic generation and detection of highly reliable fiducial markers under occlusion},
-  author={Garrido-Jurado, S. and Munoz-Salinas, R. and Madrid-Cuevas, F. J. and Marin-Jimenez, M. J.},
-  journal={Pattern Recognition},
-  year={2014},
-  volume={47},
-  pages={2280–2292}
-}
-
-@article{MunozSalinas2018,
-  title={Mapping and localization from planar markers},
-  author={Muñoz-Salinas, Rafael and Marín-Jiménez, Manuel J. and Yeguas-Bolivar, Eduardo and Medina-Carnicer, Rafael},
-  journal={Pattern Recognition},
-  year={2018},
-  volume={73},
-  pages={158–171}
-}
 ```
 
 ## License
