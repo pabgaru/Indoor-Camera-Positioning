@@ -3,6 +3,12 @@
 ## Overview
 This project introduces a novel approach to estimating the pair-wise relationship between nearby cameras using fiducial markers. It then performs a full optimization incorporating real-world information to refine the results further.
 
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
 ## Abstract
 Accurately mapping the position of a large set of fixed indoor cameras is crucial for applications in augmented reality, autonomous navigation, video surveillance, and logistics. Current methods are limited by their dependence on distinct environmental features, large overlapping camera views, and specific conditions. Our approach utilizes fiducial markers to estimate the pair-wise relationship between nearby cameras, followed by a full optimization that incorporates real-world information to refine the results. We validate our method using both artificial and real datasets with varying complexity levels. Our experiments demonstrate superior performance over existing state-of-the-art techniques, with increased effectiveness in real-world applications. This repository includes the code, tutorials, and application framework to support the deployment of our methodology.
 
