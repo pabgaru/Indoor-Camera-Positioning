@@ -20,7 +20,7 @@ Accurately mapping the position of a large set of fixed indoor cameras is crucia
 We provide the research community with access to our code, datasets, and resources to support further exploration:
 
 - [Download the code](https://sourceforge.net/projects/indoor-camera-positioning/) - Developed using C++, OpenCV, CMake, and QT Creator. Includes a user-friendly GUI Interface.
-- [Access the datasets](https://sourceforge.net/projects/indoor-camera-positioning-data/) - Includes both real and artificial datasets, along with the resources needed for the generation of the artificial datasets.
+- [Access the datasets](https://sourceforge.net/projects/indoor-camera-positioning-data/) - Includes both real and artificial datasets, along with the resources needed for the generation of the artificial datasets in **Blender**.
 
 ## Citing 📄
 If you use this library in your research, please cite:
@@ -44,6 +44,7 @@ This software is licensed under the MIT License.
 ## Contact 📧
 For further questions, please contact:
 - **Pablo García-Ruiz**: pgruiz@uco.es
+Please support ny career through my [Github](https://github.com/pabgaru) and [YouTube](https://www.youtube.com/channel/UChmAOYqpthYZoGQ8GW4u2kQ) profiles.
 
 ## Related Projects 🔗
 - [Marker Mapper](https://www.uco.es/investiga/grupos/ava/portfolio/marker-mapper/)
