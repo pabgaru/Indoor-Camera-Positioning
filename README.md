@@ -26,15 +26,17 @@ We provide the research community with access to our code, datasets, and resourc
 If you use this library in your research, please cite:
 
 ```
-@article{GarciaRuiz2024,
-  title={Large Scale Indoor Camera Positioning Using Fiducial Markers},
-  author={Garc\'ia-Ruiz, Pablo and Romero-Ramrize, Francisco J. and Mu\~noz-Salinas, Rafael and Mar\'in-Jim\'enez, Manuel J. and Medina-Carnicer, Rafael},
-  journal={Sensors},
-  year={2024},
-  volume={1},
-  number={1},
-  pages={0},
-  doi={https://doi.org/...}
+@Article{s24134303,
+AUTHOR = {García-Ruiz, Pablo and Romero-Ramirez, Francisco J. and Muñoz-Salinas, Rafael and Marín-Jiménez, Manuel J. and Medina-Carnicer, Rafael},
+TITLE = {Large-Scale Indoor Camera Positioning Using Fiducial Markers},
+JOURNAL = {Sensors},
+VOLUME = {24},
+YEAR = {2024},
+NUMBER = {13},
+ARTICLE-NUMBER = {4303},
+URL = {https://www.mdpi.com/1424-8220/24/13/4303},
+ISSN = {1424-8220},
+DOI = {10.3390/s24134303}
 }
 ```
 
