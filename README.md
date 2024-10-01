@@ -14,7 +14,11 @@ This project introduces a novel approach to estimating the pair-wise relationshi
 Accurately mapping the position of a large set of fixed indoor cameras is crucial for applications in augmented reality, autonomous navigation, video surveillance, and logistics. Current methods are limited by their dependence on distinct environmental features, large overlapping camera views, and specific conditions. Our approach utilizes fiducial markers to estimate the pair-wise relationship between nearby cameras, followed by a full optimization that incorporates real-world information to refine the results. We validate our method using both artificial and real datasets with varying complexity levels. Our experiments demonstrate superior performance over existing state-of-the-art techniques, with increased effectiveness in real-world applications. This repository includes the code, tutorials, and application framework to support the deployment of our methodology.
 
 ## Tutorials 📚
-*Coming soon!*
+
+Step-by-step tutorials to get started:
+- [Introduction to Indoor Camera Positioning](https://youtu.be/8LPhTNQm5Y8)
+- [Overview of the Indoor Camera Positioning application](https://youtu.be/rnPtjE1Lkmc)
+
 
 ## Download 📥
 We provide the research community with access to our code, datasets, and resources to support further exploration:
