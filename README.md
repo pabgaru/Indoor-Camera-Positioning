@@ -25,6 +25,7 @@ We provide the research community with access to our code, datasets, and resourc
 
 - [Download the code](https://sourceforge.net/projects/indoor-camera-positioning/) - Developed using C++, OpenCV, CMake, and QT Creator.
 - [Access the datasets](https://sourceforge.net/projects/indoor-camera-positioning-data/) - Includes both real and artificial datasets, along with the resources needed for the generation of the artificial datasets in **Blender**.
+![Datasets](datasets.png)
 
 ## Citing 📄
 If you use this library in your research, please cite:
