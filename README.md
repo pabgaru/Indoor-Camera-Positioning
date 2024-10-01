@@ -1,4 +1,4 @@
-# Large Scale Indoor Camera Positioning Using Fiducial Markers
+![Front Image](frontImage.png)
 
 ## Overview
 This project introduces a novel approach to estimating the pair-wise relationship between nearby cameras using fiducial markers. It then performs a full optimization incorporating real-world information to refine the results further.
